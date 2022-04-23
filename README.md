@@ -1,4 +1,4 @@
-## 안녕하세요 프론트엔드 개발자가 목표인 여찬규입니다 👋
+## 성장하는 개발자 여찬규입니다 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangyuyeo%2Fhit-counter)](https://hits.seeyoufarm.com) <br />
 
