@@ -1,20 +1,20 @@
 ## 안녕하세요! 성장하는 개발자 여찬규입니다 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangyuyeo%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchchgyu%2Fhit-counter)](https://hits.seeyoufarm.com)
 <br />
 
 <table>
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=changyuyeo&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&hide_title=true" alt="Anurag's GitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=chchgyu&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&hide_title=true" alt="Anurag's GitHub stats"
         width="100%"
         height="160"
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=changyuyeo&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&layout=compact&langs_count=8&hide_title=true (https://github.com/anuraghazra/github-readme-stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chchgyu&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&layout=compact&langs_count=8&hide_title=true (https://github.com/anuraghazra/github-readme-stats"
         alt="Top Langs"
         width="100%"
         height="160"
@@ -24,7 +24,7 @@
   <tr>
     <td colspan="2">
       <img 
-        src="https://activity-graph.herokuapp.com/graph?username=changyuyeo&bg_color=222f3e&color=fff&line=A29BFE&point=6C5CE7&area_color=6C5CE7&hide_border=true&hide_title=true" 
+        src="https://activity-graph.herokuapp.com/graph?username=chchgyu&bg_color=222f3e&color=fff&line=A29BFE&point=6C5CE7&area_color=6C5CE7&hide_border=true&hide_title=true" 
         alt="Ashutosh's github activity graph"
         width="880px"
       />
