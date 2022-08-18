@@ -1,7 +1,6 @@
 ## 안녕하세요! 성장하는 개발자 여찬규입니다 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchchgyu%2Fhit-counter)](https://hits.seeyoufarm.com)
-<br />
 
 <table>
   <tr>
@@ -13,12 +12,7 @@
       />
     </td>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chchgyu&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&layout=compact&langs_count=8&hide_title=true (https://github.com/anuraghazra/github-readme-stats"
-        alt="Top Langs"
-        width="100%"
-        height="160"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chchgyu&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&layout=compact&langs_count=8&hide_title=true" alt="Top Langs" />
     </td>
   </tr>
   <tr>
