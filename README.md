@@ -1,4 +1,6 @@
-## 안녕하세요! 성장하는 개발자 여찬규입니다 👋
+<img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/dev.gif" />
+
+## 안녕하세요! FE 개발자 여찬규입니다 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchan9yu%2Fhit-counter)](https://hits.seeyoufarm.com)
 
