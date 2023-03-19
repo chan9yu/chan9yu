@@ -15,15 +15,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan9yu&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&layout=compact&langs_count=8&hide_title=true" alt="Top Langs" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img 
-        src="https://activity-graph.herokuapp.com/graph?username=chan9yu&bg_color=222f3e&color=fff&line=A29BFE&point=6C5CE7&area_color=6C5CE7&hide_border=true&hide_title=true" 
-        alt="Ashutosh's github activity graph"
-        width="880px"
-      />
-    </td>
-  </tr>
 </table>
 
 <br />
