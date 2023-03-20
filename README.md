@@ -50,17 +50,44 @@
   <Strong>Language, skills, and tools 🧑🏻‍💻</Strong>
   <br />
   <br />
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code> 
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/sass/sass.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/express/express.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
+  📍 Language
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/javascript.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/typescript.png">
+  <br />
+  <br />
+  📍 Front End
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/html.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/css.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/sass.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/react.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/nextjs.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/gatsby.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/vue.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/nuxtjs.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/svelte.png">
+  <br />
+  <br />
+  📍 Back End
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/nodejs.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/express.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/nestjs.png">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/chan9yu/chan9yu/master/images/topics/graphql.png">
 </p>
