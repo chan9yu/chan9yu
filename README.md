@@ -32,13 +32,13 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=chan9yu&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&hide_title=true" alt="Anurag's GitHub stats"
+          src="https://github-readme-stats.vercel.app/api?username=chan9yu&title_color=6C5CE7&text_color=515668&icon_color=6C5CE7&bg_color=ffffff00&hide_border=true&show_icons=true&border_radius=0&hide_title=true" alt="Anurag's GitHub stats"
           width="100%"
           height="160"
         />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan9yu&title_color=6C5CE7&text_color=fff&icon_color=6C5CE7&bg_color=222f3e&hide_border=true&show_icons=true&border_radius=0&layout=compact&langs_count=8&hide_title=true" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan9yu&title_color=6C5CE7&text_color=515668&icon_color=6C5CE7&bg_color=ffffff00&hide_border=true&show_icons=true&border_radius=0&layout=compact&langs_count=8&hide_title=true" alt="Top Langs" />
       </td>
     </tr>
   </table>
