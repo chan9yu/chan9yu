@@ -89,3 +89,5 @@
   &nbsp;
   <img src="./images/topics/git.png" height="24" />
 </div>
+
+<br />
