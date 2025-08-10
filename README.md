@@ -14,7 +14,9 @@
 
 <p align="center">
   <a href="mailto:dev.cgyeo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/chan9yu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/chan9yu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://velog.io/@chan9yu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  <br />
   <img src="https://komarev.com/ghpvc/?username=chan9yu&style=for-the-badge&color=6C5CE7" />
 </p>
 
@@ -36,6 +38,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chan9yu&theme=default&hide_border=true&stroke=6C5CE7&ring=6C5CE7&fire=6C5CE7&currStreakLabel=333333"/>
   </picture>
 </div>
+
+<br />
+
+<p align="center">
+  <img src="https://velog-github-badge.vercel.app/badge/chan9yu?theme=dark&posts=3" alt="Velog GitHub stats" />
+</p>
 
 <br />
 
@@ -89,5 +97,3 @@
   &nbsp;
   <img src="./images/topics/git.png" height="24" />
 </div>
-
-<br />
