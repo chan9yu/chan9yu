@@ -20,7 +20,61 @@
 
 <br />
 
-<h2 align="center">dev blog latest articles</h2>
+<h3 align="center">💻 Languages, Skills & Tools</h3>
+
+<div align="center">
+  <h4>Core Technologies</h4>
+  <img src="./images/topics/javascript.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/typescript.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/html.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/css.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/sass.png" height="24" />
+</div>
+
+<div align="center">
+  <h4>Frameworks & Libraries</h4>
+  <img src="./images/topics/react.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/nextjs.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/tailwindcss.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/styled-components.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/react-query.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/vanilla-extract.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/redux.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/storybook.png" height="24" />
+</div>
+
+<div align="center">
+  <h4>Tools & Platforms</h4>
+  <img src="./images/topics/webrtc.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/mqtt.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/pnpm.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/vitejs.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/webpack.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/yarn.png" height="24" />
+  &nbsp;
+  <img src="./images/topics/git.png" height="24" />
+</div>
+
+<br />
+<br />
+
+<h3 align="center">💻 Dev Blog Latest Articles</h2>
 
 <table align="center">
   <tr>
@@ -76,56 +130,3 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<h3 align="center">💻 Languages, Skills & Tools</h3>
-
-<div align="center">
-  <h4>Core Technologies</h4>
-  <img src="./images/topics/javascript.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/typescript.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/html.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/css.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/sass.png" height="24" />
-</div>
-
-<div align="center">
-  <h4>Frameworks & Libraries</h4>
-  <img src="./images/topics/react.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/nextjs.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/tailwindcss.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/styled-components.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/react-query.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/vanilla-extract.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/redux.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/storybook.png" height="24" />
-</div>
-
-<div align="center">
-  <h4>Tools & Platforms</h4>
-  <img src="./images/topics/webrtc.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/mqtt.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/pnpm.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/vitejs.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/webpack.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/yarn.png" height="24" />
-  &nbsp;
-  <img src="./images/topics/git.png" height="24" />
-</div>
